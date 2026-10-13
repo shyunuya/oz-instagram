@@ -1,0 +1,54 @@
+# 매주 목요일 12:00 KST에 다음 주 게시 큐를 만들어 PR로 올립니다. PR을 머지하면 승인입니다.
+name: plan-week
+on:
+  schedule:
+    - cron: '0 3 * * 4'
+  workflow_dispatch:
+    inputs:
+      week:
+        description: '계획할 주 (예: 2026-W44). 비우면 다음 주'
+        required: false
+permissions:
+  contents: write
+  pull-requests: write
+concurrency:
+  group: plan-week
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - id: plan
+        run: node src/plan-week.ts ${WEEK:+--week "$WEEK"}
+        env:
+          WEEK: ${{ inputs.week }}
+          KTO_SERVICE_KEY: ${{ secrets.KTO_SERVICE_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - name: Open pull request
+        if: steps.plan.outputs.week != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PLANNED: ${{ steps.plan.outputs.week }}
+          POSTS: ${{ steps.plan.outputs.posts }}
+        run: |
+          branch="plan/$PLANNED"
+          if git ls-remote --exit-code --heads origin "$branch" >/dev/null; then
+            echo "$branch PR이 이미 있습니다."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git switch -c "$branch"
+          git add queue media
+          git commit -m "plan: $PLANNED ($POSTS posts)"
+          git push origin "$branch"
+          preview="https://github.com/$GITHUB_REPOSITORY/blob/$branch/queue/$PLANNED/README.md"
+          gh pr create --base main --head "$branch" --title "게시 계획 $PLANNED ($POSTS개)" --body "$(printf '%s\n\n%s\n\n%s' \
+            "**[미리보기 보기]($preview)**: 사진과 캡션을 확인하세요." \
+            '빼고 싶은 사진이나 게시물은 `queue/'"$PLANNED"'/posts.json`에서 `"skip": true`로 바꾸고, 캡션은 `body`를 고치면 됩니다. **머지하면 승인**이고, 머지하지 않으면 아무것도 올라가지 않습니다.' \
+            '게시물마다 사진이 5장 이상 남아야 합니다. 고친 뒤 ci 체크가 통과하는지 확인하세요.')"

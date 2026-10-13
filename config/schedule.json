@@ -1,0 +1,13 @@
+{
+  "startDate": "2026-10-19",
+  "postsPerDayByWeek": [1, 2],
+  "slotsKst": {
+    "1": ["20:00"],
+    "2": ["12:00", "20:00"],
+    "3": ["08:00", "12:00", "20:00"]
+  },
+  "photosPerPost": { "min": 5, "max": 6, "candidates": 8 },
+  "minYear": 2015,
+  "areaCooldownDays": 5,
+  "baseHashtags": ["#seoul", "#seoultravel", "#koreatravel"]
+}

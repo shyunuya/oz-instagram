@@ -1,0 +1,24 @@
+# 인스타그램 장기 토큰은 60일 뒤 만료됩니다. 매주 월요일 갱신해 IG_ACCESS_TOKEN secret을 바꿉니다.
+name: refresh-token
+on:
+  schedule:
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+      - run: node src/refresh-token.ts "$RUNNER_TEMP/ig-token"
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+      - run: gh secret set IG_ACCESS_TOKEN --repo "$GITHUB_REPOSITORY" < "$RUNNER_TEMP/ig-token"
+        env:
+          GH_TOKEN: ${{ secrets.SECRETS_PAT }}
+      - if: always()
+        run: rm -f "$RUNNER_TEMP/ig-token"

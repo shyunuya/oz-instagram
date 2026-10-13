@@ -1,0 +1,241 @@
+[
+  {
+    "id": "gyeongbokgung",
+    "name": "Gyeongbokgung Palace",
+    "city": "Seoul",
+    "keywords": ["경복궁"],
+    "hashtags": ["#gyeongbokgung"],
+    "anyYear": true,
+    "captions": [
+      "Seoul's grandest palace, framed by Bugaksan mountain. Rent a hanbok nearby and you can walk in for free.",
+      "Built in 1395, Gyeongbokgung still sets the rhythm of downtown Seoul. Catch the royal guard changing ceremony at Gwanghwamun Gate.",
+      "Wide courtyards, painted eaves and a mountain backdrop. Go early on a weekday for the quietest walk through the palace.",
+      "Every gate opens onto another courtyard. Which corner of Gyeongbokgung would you explore first?"
+    ]
+  },
+  {
+    "id": "changdeokgung",
+    "name": "Changdeokgung & Changgyeonggung",
+    "city": "Seoul",
+    "keywords": ["창덕궁", "창경궁"],
+    "hashtags": ["#changdeokgung"],
+    "anyYear": true,
+    "captions": [
+      "Changdeokgung follows the hills instead of flattening them, part of why it's a UNESCO World Heritage Site.",
+      "The Secret Garden behind Changdeokgung is only open on guided tours, so book ahead if it's on your list.",
+      "Next door, Changgyeonggung's old glasshouse and pond make a calm detour from the city.",
+      "Two neighboring palaces, one long afternoon. Come in autumn, when these courtyards turn gold. 🍂"
+    ]
+  },
+  {
+    "id": "deoksugung",
+    "name": "Deoksugung & Jeongdong",
+    "city": "Seoul",
+    "keywords": ["덕수궁", "정동길"],
+    "hashtags": ["#deoksugung"],
+    "anyYear": true,
+    "captions": [
+      "A traditional palace and a European-style stone hall side by side, right in the middle of the city.",
+      "Walk the stone-wall road along Deoksugung, one of Seoul's favorite strolls in every season.",
+      "Deoksugung stays open into the evening, when the lights come on and City Hall glows next door.",
+      "Jeongdong's quiet lanes still hold churches and legation buildings from over a century ago."
+    ]
+  },
+  {
+    "id": "bukchon",
+    "name": "Bukchon Hanok Village",
+    "city": "Seoul",
+    "keywords": ["북촌", "북촌한옥마을"],
+    "hashtags": ["#bukchon"],
+    "captions": [
+      "Hundreds of hanok houses packed between two royal palaces. People live here, so keep voices low as you wander.",
+      "Tiled rooftops all the way to the downtown skyline. Bukchon looks best from its uphill lanes.",
+      "Wooden gates, stone walls and quiet alleys. Visiting hours are limited in the busiest lanes, so plan a daytime walk.",
+      "Old Seoul, still lived in. Which alley would you get lost in first?"
+    ]
+  },
+  {
+    "id": "seochon",
+    "name": "Seochon",
+    "city": "Seoul",
+    "keywords": ["서촌", "통인시장", "수성동계곡"],
+    "hashtags": ["#seochon"],
+    "captions": [
+      "West of Gyeongbokgung, Seochon trades crowds for small galleries, bookshops and hanok cafés.",
+      "At Tongin Market, swap old-style brass coins for a lunchbox filled with market snacks.",
+      "Follow the lanes uphill to Suseong-dong Valley, where Inwangsan's rocks meet the city.",
+      "Seochon is where locals go when Bukchon feels too busy. Slow mornings, good coffee, quiet alleys. ☕"
+    ]
+  },
+  {
+    "id": "ikseondong-insadong",
+    "name": "Ikseon-dong & Insadong",
+    "city": "Seoul",
+    "keywords": ["익선동", "인사동", "쌈지길"],
+    "hashtags": ["#insadong"],
+    "captions": [
+      "Ikseon-dong packs a hundred-year-old hanok neighborhood with cafés, bakeries and tiny restaurants.",
+      "Insadong is the place for traditional tea, hanji paper and handmade crafts.",
+      "Ssamziegil's spiral walkway climbs past small craft shops. Start at the bottom and keep going up.",
+      "Narrow alleys, warm lights and the smell of street snacks. Best explored on an empty stomach."
+    ]
+  },
+  {
+    "id": "namsan",
+    "name": "Namsan & N Seoul Tower",
+    "city": "Seoul",
+    "keywords": ["남산", "N서울타워", "남산서울타워"],
+    "hashtags": ["#namsantower"],
+    "captions": [
+      "N Seoul Tower sits in the middle of the city, so you can spot it from almost anywhere in Seoul.",
+      "Walk up the trails or ride the cable car. Either way, the view from the top is worth it.",
+      "Love locks, city lights and the whole skyline in one turn of the head.",
+      "Namsan is a forest in the middle of downtown, with walking trails far quieter than the streets below."
+    ]
+  },
+  {
+    "id": "hangang",
+    "name": "Han River",
+    "city": "Seoul",
+    "keywords": ["한강", "반포대교", "여의도", "뚝섬"],
+    "hashtags": ["#hanriver"],
+    "captions": [
+      "Seoul's favorite way to unwind: a mat on the grass, fried chicken and the Han River at sunset.",
+      "Dozens of bridges cross the Han, and every riverside park has its own view of them.",
+      "In the warmer months, Banpo Bridge's rainbow fountain lights up the river after dark. 🌈",
+      "Rent a bike and follow the river paths. They run for kilometers along both banks."
+    ]
+  },
+  {
+    "id": "seongsu",
+    "name": "Seongsu & Seoul Forest",
+    "city": "Seoul",
+    "keywords": ["성수", "서울숲"],
+    "hashtags": ["#seongsu"],
+    "captions": [
+      "Old factories and warehouses turned into cafés, studios and pop-up stores. Seongsu is Seoul's creative corner.",
+      "Seoul Forest is right next door for a green break between café stops.",
+      "Brick buildings, queues for the newest pop-up and great coffee. Seongsu seems to change every month.",
+      "Come for the cafés, stay for the side streets. What would you check out first in Seongsu?"
+    ]
+  },
+  {
+    "id": "ddp",
+    "name": "Dongdaemun & DDP",
+    "city": "Seoul",
+    "keywords": ["동대문디자인플라자", "DDP", "동대문", "흥인지문"],
+    "hashtags": ["#ddp"],
+    "captions": [
+      "Dongdaemun Design Plaza's silver curves were designed by Zaha Hadid, and they look different from every angle.",
+      "Old and new side by side: Heunginjimun Gate has stood a short walk from DDP for centuries.",
+      "Dongdaemun stays busy late, with fashion malls and street food going long after dark.",
+      "Futuristic curves by day, glowing lights by night. DDP is a different place after sunset."
+    ]
+  },
+  {
+    "id": "jamsil",
+    "name": "Lotte World Tower & Seokchon Lake",
+    "city": "Seoul",
+    "keywords": ["롯데월드타워", "석촌호수", "잠실"],
+    "hashtags": ["#lotteworldtower"],
+    "captions": [
+      "At 555 meters, Lotte World Tower is Korea's tallest building, and its observatory looks straight down on the city.",
+      "Seokchon Lake wraps around the tower's base, and in spring its paths turn pink with cherry blossoms. 🌸",
+      "A lakeside walk with Korea's tallest tower as the backdrop. Sunset is the time to go.",
+      "From the lake path to the 123rd floor, Jamsil does skyline views like nowhere else in Seoul."
+    ]
+  },
+  {
+    "id": "gwanghwamun",
+    "name": "Gwanghwamun & Cheonggyecheon",
+    "city": "Seoul",
+    "keywords": ["광화문", "청계천"],
+    "hashtags": ["#gwanghwamun"],
+    "captions": [
+      "Gwanghwamun Square links the palace gate to the statues of King Sejong and Admiral Yi Sun-sin.",
+      "Cheonggyecheon runs below street level through downtown. Follow it for a quiet walk in the middle of the city.",
+      "This is the heart of old Seoul: palace gates, a wide plaza and mountains beyond.",
+      "Step down from the traffic to Cheonggyecheon, where stepping stones and lights line the stream."
+    ]
+  },
+  {
+    "id": "hongdae",
+    "name": "Hongdae, Yeonnam & Mangwon",
+    "city": "Seoul",
+    "keywords": ["홍대", "연남동", "망원"],
+    "hashtags": ["#hongdae"],
+    "captions": [
+      "Buskers, indie music and late-night energy. Hongdae is where Seoul's young creative scene hangs out.",
+      "Gyeongui Line Forest Park turns an old railway into a long green strip through Yeonnam-dong.",
+      "Mangwon Market is a local favorite for cheap street food and a slower pace.",
+      "Murals, vintage shops and tiny bars. Which part of Hongdae would you start with?"
+    ]
+  },
+  {
+    "id": "itaewon",
+    "name": "Itaewon & Hannam",
+    "city": "Seoul",
+    "keywords": ["이태원", "한남동"],
+    "hashtags": ["#itaewon"],
+    "captions": [
+      "Itaewon and Hannam mix food from around the world with design shops and galleries.",
+      "Climb the hilly side streets for rooftop views and some of Seoul's most international menus.",
+      "Hannam-dong's quiet lanes hide concept stores, cafés and the Leeum Museum of Art.",
+      "One neighborhood, a dozen cuisines. Itaewon is where Seoul goes out to eat."
+    ]
+  },
+  {
+    "id": "myeongdong",
+    "name": "Myeongdong & Namdaemun",
+    "city": "Seoul",
+    "keywords": ["명동", "남대문", "숭례문"],
+    "hashtags": ["#myeongdong"],
+    "captions": [
+      "Myeongdong's main streets fill with food stalls in the evening, so bring an appetite.",
+      "Skincare shops, street snacks and neon signs on one of Seoul's busiest shopping streets.",
+      "Sungnyemun, Seoul's old south gate, stands next to Namdaemun Market, which has been trading for over 600 years.",
+      "From the cathedral on the hill to the stalls below, Myeongdong packs a lot into a few blocks."
+    ]
+  },
+  {
+    "id": "naksan",
+    "name": "Naksan Park & Seoul City Wall",
+    "city": "Seoul",
+    "keywords": ["낙산공원", "이화마을", "한양도성"],
+    "hashtags": ["#seoulcitywall"],
+    "anyYear": true,
+    "captions": [
+      "The Seoul City Wall runs along Naksan's ridge, and its trail is one of the best sunset walks in the city.",
+      "Ihwa Village's stairs and murals lead up to Naksan Park, with old Seoul spread out below.",
+      "Six-hundred-year-old stones and city lights after dark. On Naksan, the walls of old Seoul meet the new.",
+      "A short climb from Dongdaemun, Naksan Park gives you a wide-open view without a mountain hike."
+    ]
+  },
+  {
+    "id": "gangnam",
+    "name": "COEX & Bongeunsa",
+    "city": "Seoul",
+    "keywords": ["코엑스", "별마당도서관", "봉은사"],
+    "hashtags": ["#gangnam"],
+    "captions": [
+      "Starfield Library's towering shelves sit inside COEX Mall, and they're free to wander. 📚",
+      "Right across the street from COEX, Bongeunsa Temple is a calm counterpoint to Gangnam's towers.",
+      "Glass towers and a temple more than a thousand years old, facing each other across one street.",
+      "Gangnam is more than shopping: temple bells, giant bookshelves and wide boulevards in one walk."
+    ]
+  },
+  {
+    "id": "mountains",
+    "name": "Bukhansan & Inwangsan",
+    "city": "Seoul",
+    "keywords": ["북한산", "인왕산", "북악산"],
+    "hashtags": ["#bukhansan"],
+    "anyYear": true,
+    "captions": [
+      "Seoul is a mountain city, and Bukhansan National Park sits right on its northern edge.",
+      "Inwangsan's rocky trail is short and steep, and it ends with one of the best views over downtown.",
+      "Granite peaks, pine trees and the whole city below. Some of Seoul's best hikes start near a subway station.",
+      "Bring water and good shoes. Seoul's mountain trails are steeper than they look. ⛰️"
+    ]
+  }
+]
