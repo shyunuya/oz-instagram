@@ -1,0 +1,453 @@
+{
+  "week": "2026-W43",
+  "posts": [
+    {
+      "id": "2026-W43-01",
+      "scheduledAt": "2026-10-19T20:00:00+09:00",
+      "area": "gyeongbokgung",
+      "areaName": "Gyeongbokgung Palace",
+      "body": "Seoul's grandest palace, framed by Bugaksan mountain. Rent a hanbok nearby and you can walk in for free.",
+      "bodySource": "library",
+      "hashtags": [
+        "#seoul",
+        "#seoultravel",
+        "#koreatravel",
+        "#gyeongbokgung"
+      ],
+      "photos": [
+        {
+          "id": "3551015",
+          "title": "경복궁",
+          "photographer": "서문교",
+          "shotMonth": "202507",
+          "file": "media/2026-W43/2026-W43-01-1.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "3100492",
+          "title": "경복궁",
+          "photographer": "황성훈",
+          "shotMonth": "202311",
+          "file": "media/2026-W43/2026-W43-01-2.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "3011939",
+          "title": "경복궁",
+          "photographer": "임태원",
+          "shotMonth": "202307",
+          "file": "media/2026-W43/2026-W43-01-3.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "2980193",
+          "title": "경복궁 수문장 교대의식",
+          "photographer": "한국관광공사 이범수",
+          "shotMonth": "202304",
+          "file": "media/2026-W43/2026-W43-01-4.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "2976723",
+          "title": "경복궁",
+          "photographer": "한국관광공사 이범수",
+          "shotMonth": "202303",
+          "file": "media/2026-W43/2026-W43-01-5.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "2708194",
+          "title": "경복궁",
+          "photographer": "라이브스튜디오",
+          "shotMonth": "202011",
+          "file": "media/2026-W43/2026-W43-01-6.jpg",
+          "look": "moody"
+        }
+      ]
+    },
+    {
+      "id": "2026-W43-02",
+      "scheduledAt": "2026-10-20T20:00:00+09:00",
+      "area": "changdeokgung",
+      "areaName": "Changdeokgung & Changgyeonggung",
+      "body": "Changdeokgung follows the hills instead of flattening them, part of why it's a UNESCO World Heritage Site.",
+      "bodySource": "library",
+      "hashtags": [
+        "#seoul",
+        "#seoultravel",
+        "#koreatravel",
+        "#changdeokgung"
+      ],
+      "photos": [
+        {
+          "id": "4061962",
+          "title": "창덕궁",
+          "photographer": "서문교",
+          "shotMonth": "202510",
+          "file": "media/2026-W43/2026-W43-02-1.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "4061942",
+          "title": "창경궁",
+          "photographer": "서문교",
+          "shotMonth": "202510",
+          "file": "media/2026-W43/2026-W43-02-2.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "3580603",
+          "title": "창경궁",
+          "photographer": "서문교",
+          "shotMonth": "202508",
+          "file": "media/2026-W43/2026-W43-02-3.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "3511917",
+          "title": "창덕궁",
+          "photographer": "서문교",
+          "shotMonth": "202505",
+          "file": "media/2026-W43/2026-W43-02-4.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "3567207",
+          "title": "눈 덮인 창덕궁 후원",
+          "photographer": "이재형",
+          "shotMonth": "202312",
+          "file": "media/2026-W43/2026-W43-02-5.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "3101939",
+          "title": "창덕궁",
+          "photographer": "황성훈",
+          "shotMonth": "202311",
+          "file": "media/2026-W43/2026-W43-02-6.jpg",
+          "look": "clean"
+        }
+      ]
+    },
+    {
+      "id": "2026-W43-03",
+      "scheduledAt": "2026-10-21T20:00:00+09:00",
+      "area": "deoksugung",
+      "areaName": "Deoksugung & Jeongdong",
+      "body": "A traditional palace and a European-style stone hall side by side, right in the middle of the city.",
+      "bodySource": "library",
+      "hashtags": [
+        "#seoul",
+        "#seoultravel",
+        "#koreatravel",
+        "#deoksugung"
+      ],
+      "photos": [
+        {
+          "id": "3392794",
+          "title": "덕수궁",
+          "photographer": "정규진",
+          "shotMonth": "202408",
+          "file": "media/2026-W43/2026-W43-03-1.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "3344090",
+          "title": "덕수궁 돌담길",
+          "photographer": "안영관",
+          "shotMonth": "202406",
+          "file": "media/2026-W43/2026-W43-03-2.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "3011942",
+          "title": "덕수궁",
+          "photographer": "천준교",
+          "shotMonth": "202307",
+          "file": "media/2026-W43/2026-W43-03-3.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "2976860",
+          "title": "덕수궁",
+          "photographer": "한국관광공사 이범수",
+          "shotMonth": "202303",
+          "file": "media/2026-W43/2026-W43-03-4.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "2717443",
+          "title": "덕수궁",
+          "photographer": "한국관광공사 이범수",
+          "shotMonth": "202104",
+          "file": "media/2026-W43/2026-W43-03-5.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "2643911",
+          "title": "덕수궁",
+          "photographer": "한국관광공사 이범수",
+          "shotMonth": "201911",
+          "file": "media/2026-W43/2026-W43-03-6.jpg",
+          "look": "clean"
+        }
+      ]
+    },
+    {
+      "id": "2026-W43-04",
+      "scheduledAt": "2026-10-22T20:00:00+09:00",
+      "area": "bukchon",
+      "areaName": "Bukchon Hanok Village",
+      "body": "Hundreds of hanok houses packed between two royal palaces. People live here, so keep voices low as you wander.",
+      "bodySource": "library",
+      "hashtags": [
+        "#seoul",
+        "#seoultravel",
+        "#koreatravel",
+        "#bukchon"
+      ],
+      "photos": [
+        {
+          "id": "3537917",
+          "title": "북촌한옥마을",
+          "photographer": "서문교",
+          "shotMonth": "202506",
+          "file": "media/2026-W43/2026-W43-04-1.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "3567221",
+          "title": "북촌한옥마을",
+          "photographer": "이건희",
+          "shotMonth": "202503",
+          "file": "media/2026-W43/2026-W43-04-2.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "2569715",
+          "title": "북촌한옥마을",
+          "photographer": "라이브스튜디오",
+          "shotMonth": "201806",
+          "file": "media/2026-W43/2026-W43-04-3.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "2508087",
+          "title": "북촌한옥마을",
+          "photographer": "한국관광공사 김지호",
+          "shotMonth": "201708",
+          "file": "media/2026-W43/2026-W43-04-4.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "2506076",
+          "title": "북촌한옥마을",
+          "photographer": "IR 스튜디오",
+          "shotMonth": "201707",
+          "file": "media/2026-W43/2026-W43-04-5.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "2504296",
+          "title": "북촌한옥마을",
+          "photographer": "이재국",
+          "shotMonth": "201700",
+          "file": "media/2026-W43/2026-W43-04-6.jpg",
+          "look": "clean"
+        }
+      ]
+    },
+    {
+      "id": "2026-W43-05",
+      "scheduledAt": "2026-10-23T20:00:00+09:00",
+      "area": "seochon",
+      "areaName": "Seochon",
+      "body": "West of Gyeongbokgung, Seochon trades crowds for small galleries, bookshops and hanok cafés.",
+      "bodySource": "library",
+      "hashtags": [
+        "#seoul",
+        "#seoultravel",
+        "#koreatravel",
+        "#seochon"
+      ],
+      "photos": [
+        {
+          "id": "3362970",
+          "title": "필운동 홍건익 가옥",
+          "photographer": "안영관",
+          "shotMonth": "202407",
+          "file": "media/2026-W43/2026-W43-05-1.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "3362946",
+          "title": "이상의 집",
+          "photographer": "안영관",
+          "shotMonth": "202407",
+          "file": "media/2026-W43/2026-W43-05-2.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "3362942",
+          "title": "청전 이상범 가옥",
+          "photographer": "안영관",
+          "shotMonth": "202407",
+          "file": "media/2026-W43/2026-W43-05-3.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "3362929",
+          "title": "윤동주 하숙집 터",
+          "photographer": "안영관",
+          "shotMonth": "202407",
+          "file": "media/2026-W43/2026-W43-05-4.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "3362921",
+          "title": "상촌재",
+          "photographer": "안영관",
+          "shotMonth": "202407",
+          "file": "media/2026-W43/2026-W43-05-5.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "3362423",
+          "title": "종로구립 박노수미술관",
+          "photographer": "안영관",
+          "shotMonth": "202407",
+          "file": "media/2026-W43/2026-W43-05-6.jpg",
+          "look": "clean"
+        }
+      ]
+    },
+    {
+      "id": "2026-W43-06",
+      "scheduledAt": "2026-10-24T20:00:00+09:00",
+      "area": "ikseondong-insadong",
+      "areaName": "Ikseon-dong & Insadong",
+      "body": "Ikseon-dong packs a hundred-year-old hanok neighborhood with cafés, bakeries and tiny restaurants.",
+      "bodySource": "library",
+      "hashtags": [
+        "#seoul",
+        "#seoultravel",
+        "#koreatravel",
+        "#insadong"
+      ],
+      "photos": [
+        {
+          "id": "3364985",
+          "title": "익선동 한옥거리",
+          "photographer": "정규진",
+          "shotMonth": "202407",
+          "file": "media/2026-W43/2026-W43-06-1.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "2980124",
+          "title": "익선동 한옥거리",
+          "photographer": "한국관광공사 이범수",
+          "shotMonth": "202303",
+          "file": "media/2026-W43/2026-W43-06-2.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "2600964",
+          "title": "익선동 한옥거리",
+          "photographer": "한국관광공사 김지호",
+          "shotMonth": "201902",
+          "file": "media/2026-W43/2026-W43-06-3.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "2588340",
+          "title": "익선동 한옥거리",
+          "photographer": "라이브스튜디오",
+          "shotMonth": "201810",
+          "file": "media/2026-W43/2026-W43-06-4.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "2570162",
+          "title": "인사동거리",
+          "photographer": "라이브스튜디오",
+          "shotMonth": "201806",
+          "file": "media/2026-W43/2026-W43-06-5.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "2550494",
+          "title": "익선동 한옥거리",
+          "photographer": "한국관광공사 이범수",
+          "shotMonth": "201804",
+          "file": "media/2026-W43/2026-W43-06-6.jpg",
+          "look": "clean"
+        }
+      ]
+    },
+    {
+      "id": "2026-W43-07",
+      "scheduledAt": "2026-10-25T20:00:00+09:00",
+      "area": "namsan",
+      "areaName": "Namsan & N Seoul Tower",
+      "body": "N Seoul Tower sits in the middle of the city, so you can spot it from almost anywhere in Seoul.",
+      "bodySource": "library",
+      "hashtags": [
+        "#seoul",
+        "#seoultravel",
+        "#koreatravel",
+        "#namsantower"
+      ],
+      "photos": [
+        {
+          "id": "4062103",
+          "title": "서울 야경",
+          "photographer": "정규진",
+          "shotMonth": "202510",
+          "file": "media/2026-W43/2026-W43-07-1.jpg",
+          "look": "moody"
+        },
+        {
+          "id": "3538490",
+          "title": "남산자락숲길",
+          "photographer": "한건우",
+          "shotMonth": "202506",
+          "file": "media/2026-W43/2026-W43-07-2.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "3567292",
+          "title": "폭설 내린 서울",
+          "photographer": "구교복",
+          "shotMonth": "202411",
+          "file": "media/2026-W43/2026-W43-07-3.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "3457999",
+          "title": "안산",
+          "photographer": "안영관",
+          "shotMonth": "202410",
+          "file": "media/2026-W43/2026-W43-07-4.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "3344483",
+          "title": "인왕산",
+          "photographer": "안영관",
+          "shotMonth": "202406",
+          "file": "media/2026-W43/2026-W43-07-5.jpg",
+          "look": "clean"
+        },
+        {
+          "id": "3097480",
+          "title": "마로니에공원",
+          "photographer": "신혜성",
+          "shotMonth": "202311",
+          "file": "media/2026-W43/2026-W43-07-6.jpg",
+          "look": "clean"
+        }
+      ]
+    }
+  ]
+}
